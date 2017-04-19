@@ -1,0 +1,17 @@
+img {
+display: block;
+  margin: auto;
+  width: 40%;
+  border-radius: 10px;
+}
+
+.important {
+  color: #ff99ff;
+  font-style: italic;
+  font-family: monospace;
+  text-align: center;
+}
+
+p {
+  color: #00cccc
+}
